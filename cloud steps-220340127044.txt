@@ -1,0 +1,14 @@
+1)open aws
+2)Login to aws console
+3)press on EC2
+4)press on create EC2 launch
+5)enter EC2 name
+6)select linux os machine
+7)create key pair
+8)create security group
+9)allow SSh traffic with port 22
+10)allow HTTP traffic with pot 80
+11)launch EC2 instance
+12)click on show all instances and click on our instance
+13)click on connect
+14)connection established. 
